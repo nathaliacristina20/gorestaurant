@@ -9,7 +9,7 @@ controlarem quais refeições estão disponíveis e quais estão indisponíveis.
 
 <p>Desenvolvida no <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-reactjs-crud">desafio 10</a> do Bootcamp GoStack da Rocketseat.</p>
 
-## Demo
+## Preview
 
 <img src=".github/gorestaurant.png">
 
