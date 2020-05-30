@@ -1,6 +1,4 @@
-<h1 align="center">
-    GoRestaurant
-</h1>
+# GoRestaurant
 
 ## :rocket: Sobre
 
@@ -37,7 +35,7 @@ Pronto! Você pode visualizar o GoRestaurant através do endereço http://localh
 
 ## :page_with_curl: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/nathaliacristina20/gobarber-server/blob/master/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/nathaliacristina20/gorestaurant/blob/master/LICENSE">LICENSE</a> para mais detalhes.
 
 <hr />
 <p>by Nathalia Cristina :wave: <a href="https://linktr.ee/nathaliacristina20">Get in touch!</a></p>
